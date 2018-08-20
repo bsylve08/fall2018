@@ -1,3 +1,7 @@
+# Temporary files #
+###################
+*.*~
+
 # Compiled source #
 ###################
 *.com
@@ -5,6 +9,7 @@
 *.dll
 *.exe
 *.o
+*.out
 *.so
 
 # Packages #
